@@ -1,6 +1,3 @@
-from asyncio.windows_utils import BUFSIZE
-from ctypes.wintypes import POINT
-# from socket import socket
 import socket
 
 HOST = "localhost" # 接続先ホストの名前

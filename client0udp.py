@@ -1,5 +1,3 @@
-from asyncio.windows_utils import BUFSIZE
-from ctypes.wintypes import POINT
 import socket
 
 

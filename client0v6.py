@@ -1,6 +1,3 @@
-from asyncio.windows_utils import BUFSIZE
-from http import client
-from math import ceil
 import socket
 
 
