@@ -20,5 +20,3 @@ data = client.recv(BUFSIZE)
 print(data.decode("UTF-8"))
 # コネクションのクローズ
 client.close()
-
-

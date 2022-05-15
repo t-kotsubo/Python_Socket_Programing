@@ -1,0 +1,4 @@
+Hello Takayuki! This is a socket test.
+こんにちは、崇行。
+元気ですか?
+宜しくお願いいたします。
